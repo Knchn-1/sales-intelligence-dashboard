@@ -61,7 +61,7 @@ This dashboard helps stakeholders monitor sales performance, identify growth opp
 
 * `Sales_Dashboard.xlsx` → Excel dashboard file
 * `dashboard.png` → Dashboard preview image
-* * `Superstore.xlsx` → Dataset Used
+* `Superstore.xlsx` → Dataset Used
 
 
 ---
